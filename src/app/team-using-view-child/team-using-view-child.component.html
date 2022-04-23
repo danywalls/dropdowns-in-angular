@@ -1,0 +1,10 @@
+<div class="col">
+  <p>You select your team {{ selectedTeam }} using viewChild</p>
+
+  <select #teams (change)="onSelected()">
+    <option default>Pick a team</option>
+    <option>Lakers</option>
+    <option>Miami</option>
+    <option>Cleveland</option>
+  </select>
+</div>

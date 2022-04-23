@@ -1,0 +1,9 @@
+<div class="col">
+  <p>You select your team {{ selectedTeam }} using change event</p>
+  <select #teams (change)="onSelected(teams.value)">
+    <option default>Pick a team</option>
+    <option>Lakers</option>
+    <option>Miami</option>
+    <option>Cleveland</option>
+  </select>
+</div>
