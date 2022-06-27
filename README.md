@@ -1,3 +1,5 @@
-# How to get selected value from dropdown in Angular
+# Angular Basics: How To Get the Value of a Selected Dropdown Menu Item
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-mdajjb)
+Find the associated article here: https://www.telerik.com/blogs/author/dany-paredes
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/danywalls/using-local-storage-with-angular)
